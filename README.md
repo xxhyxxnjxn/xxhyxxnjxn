@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
-
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=000000&text=xxhyxxnjxn's%20Github&fontColor=f7a7bb&fontSize=40&animation=twinkling)
 
 <!--
 **xxhyxxnjxn/xxhyxxnjxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
